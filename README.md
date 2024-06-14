@@ -1,14 +1,14 @@
-#Visão Geral
+# Visão Geral
 Este é um jogo da velha (Tic Tac Toe) implementado em Python. Permite que um jogador humano jogue contra o computador, que faz movimentos aleatórios. O jogo é jogado em um tabuleiro 3x3 e segue as regras padrão do jogo da velha.
 
-#Funcionalidades
+# Funcionalidades
 - Inicializa e reseta o tabuleiro.
 - Exibe o tabuleiro atual.
 - Verifica condições de vitória ou empate.
 - Permite ao jogador humano fazer um movimento.
 - Faz um movimento aleatório para o computador.
 
-#Como Jogar
+# Como Jogar
 1.Inicialização do Jogo:
   - O jogo começa automaticamente.
   - O tabuleiro é exibido no console.
